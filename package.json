@@ -35,7 +35,7 @@
     },
     "homepage": "https://github.com/WashingtonYandun/stack-gh-stats_sb-pet#readme",
     "devDependencies": {
-        "@eslint/js": "^9.3.0",
+        "@eslint/js": "^10.0.1",
         "eslint": "^9.3.0",
         "globals": "^15.3.0",
         "lint-staged": "^15.2.2",
